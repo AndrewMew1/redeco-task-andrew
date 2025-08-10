@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-redecobeige: #f5eae0;
+    --color-redecogrey: #f4f4f5;
+    --color-redecoorange: #e54523;
+    --color-redecoorange2: #E4330D;
+    --color-redecogrey2: #6e6d76;
+    --color-redecogreyish: #979dc0
+}
