@@ -1,10 +1,13 @@
 # Furniture Search Agent 🔎 🛋️ Home Task for Redeco
 
+<img width="1624" height="971" alt="Screenshot 2025-08-10 at 21 58 29" src="https://github.com/user-attachments/assets/46b92c43-ab41-4386-beda-1cd243b2004c" />
+
 A lightweight yet extensible search agent that helps users discover second-hand or design furniture across multiple online marketplaces.
-Built with **React**, **Node.js**, **Express.js**, **Puppeteer**, and **Tailwind CSS**, it currently supports **Gumtree** and **Facebook Marketplace** but its modular architecture allows easy adding of new sources.
+Built with **React**, **Node.js**, **Express.js**, **Puppeteer**, and **Tailwind CSS**, it currently supports **Gumtree**, **Facebook Marketplace** and **Vinterior** but its modular architecture allows easy adding of new sources.
 
 
 Users can type a search query (e.g., “_green vintage armchair_”) and quickly receive curated results including title, image, price, and link.
+
 
 
 ### How an AI assistant would use this
@@ -16,7 +19,7 @@ I have prior project experience applying AI and semantic search tools to process
 ## What’s currently hard-coded vs dynamic
 
 ### Hard-Coded:
-* Target websites (Gumtree, Facebook Marketplace) are fixed in the backend scrapers.
+* Target websites (Gumtree, Facebook Marketplace, Vinterior) are fixed in the backend scrapers.
 * Scraper selectors are fixed based on current website structures.
 * Results are fixed to be sorted by relevance and location fixed to London.
 ### Dynamic:
