@@ -1,4 +1,4 @@
-# Furniture Search Agent 🛋️
+# Furniture Search Agent 🛋️ Home Task for Redeco
 
 A functional Furniture Search web app built with React, Node.js, Express.js, Puppeteer, and Tailwind CSS.
 It allows users to input search queries for second-hand or design furniture and returns curated results from multiple external websites (Gumtree, Facebook Marketplace, Vinterior).
